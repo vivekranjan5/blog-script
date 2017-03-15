@@ -1,0 +1,18 @@
+{
+	"name"					: "webscraping",
+	"version"				: "0.0.1",
+	"description"			: "Scrape Travel blogs",
+	"main"					: "server.js",
+	"author"				: "Vivek Ranjan",
+	"dependencies"			: {
+		"express"				: "latest",
+		"request"				: "latest",
+		"cheerio"				: "latest",
+		"yamljs"				: "latest",
+		"sitemapper"			: "latest",
+		"fbgraph"				: "latest",
+		"everyauth"				: "latest",
+		"connect"				: "latest",
+		"csv-write-stream"		: "latest"
+	}  
+}

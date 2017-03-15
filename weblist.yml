@@ -1,0 +1,25 @@
+website_list:
+  0:
+    hostName: "https://www.tripoto.com/blog/sitemap_index.xml"
+    csVFileName: "tripotoPageDetail.csv" 
+  # 0:
+  #   hostName: "https://matadornetwork.com/sitemap_index.xml"
+  #   csVFileName: "metaDorDetails.csv" 
+  # 2:
+  #   hostName: "http://www.holidayiq.com/blog/sitemap.xml"
+  #   csVFileName: "holidayIqDetails.csv"
+  # 0:
+  #   hostName: "https://www.tripoto.com/blog/post-sitemap.xml"
+  #   csVFileName: "tripotoDetails.csv"
+  # 1:
+  #   hostName: "http://www.boredpanda.com/sitemap.xml"
+  #   csVFileName: "borePandaDetails.csv"
+  # 0:
+  #   hostName: "http://www.cntraveller.in/sitemap.xml"
+  #   csVFileName: "cnTRavelerDetails.csv"
+  # 
+  # 4:
+  #   hostName: "https://matadornetwork.com/sitemap_index.xml"
+  #   csVFileName: "metaDorDetails.csv"
+
+  
